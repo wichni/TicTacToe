@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Board {
     private Piece board[][];
     private int x;

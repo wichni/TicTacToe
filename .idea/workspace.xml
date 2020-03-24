@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="595bce9d-6a6e-42ed-8799-19f6e440241e" name="Default Changelist" comment="TicTacToe">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/AIPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Board.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ColorsPiece.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/GameProgress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HumanPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/InvalidFieldIndexException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MoveValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/OPiece.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Piece.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TicTacToeGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TicTacToeMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/XPiece.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/GameProgressTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ColorsPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ColorsPiece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../TicTacToe\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Ł</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="11" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectId" id="1PuAFcXGci1Iu3HMOm1KtCZR79F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TicTacToe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameProgressTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TicTacToe" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GameProgressTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameProgressTest.testNotWinning" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TicTacToe" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GameProgressTest" />
+      <option name="METHOD_NAME" value="testNotWinning" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameProgressTest.testWinEndGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TicTacToe" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GameProgressTest" />
+      <option name="METHOD_NAME" value="testWinEndGame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameProgressTest.testWinningCombination" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TicTacToe" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GameProgressTest" />
+      <option name="METHOD_NAME" value="testWinningCombination" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.GameProgressTest.testWinEndGame" />
+        <item itemvalue="JUnit.GameProgressTest.testWinningCombination" />
+        <item itemvalue="JUnit.GameProgressTest" />
+        <item itemvalue="JUnit.GameProgressTest.testNotWinning" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="595bce9d-6a6e-42ed-8799-19f6e440241e" name="Default Changelist" comment="" />
+      <created>1563008873779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563008873779</updated>
+      <workItem from="1581777506229" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GameProgressTest_testWinningCombination - 2019.07.14 at 14h 37m 21s.xml">
+      <configuration name="GameProgressTest.testWinningCombination" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameProgressTest_testWinningCombination - 2019.07.14 at 14h 43m 20s.xml">
+      <configuration name="GameProgressTest.testWinningCombination" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameProgressTest_testWinningCombination - 2019.07.14 at 14h 48m 51s.xml">
+      <configuration name="GameProgressTest.testWinningCombination" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameProgressTest_testWinningCombination - 2019.07.14 at 14h 49m 35s.xml">
+      <configuration name="GameProgressTest.testWinningCombination" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameProgressTest_testWinningCombination - 2019.07.14 at 14h 51m 41s.xml">
+      <configuration name="GameProgressTest.testWinningCombination" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameProgressTest_testWinningCombination - 2019.07.14 at 14h 52m 11s.xml">
+      <configuration name="GameProgressTest.testWinningCombination" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameProgressTest_testWinEndGame - 2019.07.14 at 15h 03m 49s.xml">
+      <configuration name="GameProgressTest.testWinEndGame" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameProgressTest_testWinEndGame - 2019.07.14 at 15h 04m 10s.xml">
+      <configuration name="GameProgressTest.testWinEndGame" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameProgressTest_testWinEndGame - 2019.07.14 at 15h 04m 32s.xml">
+      <configuration name="GameProgressTest.testWinEndGame" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GameProgressTest_testWinEndGame - 2019.07.14 at 15h 06m 44s.xml">
+      <configuration name="GameProgressTest.testWinEndGame" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TicTacToe" />
+    <option name="LAST_COMMIT_MESSAGE" value="TicTacToe" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585027680848">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1585027680848" />
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1585027651965">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1585027651965" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1585027651965">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1585027651965" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1585027651964">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1585027651964" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1585027651965">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1585027651965" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

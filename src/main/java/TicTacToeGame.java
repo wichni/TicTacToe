@@ -41,8 +41,7 @@ public class TicTacToeGame {
         this.board = new Board(3, 3);
     }
 
-    private void start()
-    {
+    private void start() {
         int moveCounter = 0;
         while (!gameProgress.endGame()) {
             int playerNumber = moveCounter % 2;
@@ -64,7 +63,7 @@ public class TicTacToeGame {
 
         this.board.print();
         System.out.println("Koniec gry");
-        for (Player player: players) {
+        for (Player player : players) {
             if (gameProgress.isPieceWon(player.getPiece())) {
                 System.out.println("Wygrał gracz: " + player);
             }

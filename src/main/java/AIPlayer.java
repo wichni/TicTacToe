@@ -23,7 +23,7 @@ public class AIPlayer extends Player {
         }
         Piece opponent = null;
 
-        if (getPiece().getSymbol() == ColorsPiece.ANSI_RED+'X') {
+        if (getPiece().getSymbol() == ColorsPiece.ANSI_RED + 'X') {
             opponent = new OPiece();
         } else {
             opponent = new XPiece();

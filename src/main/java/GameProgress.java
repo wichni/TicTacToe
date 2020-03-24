@@ -13,15 +13,15 @@ public class GameProgress {
         int[][] winningCombinations = {
                 {1, 2, 3},
                 {4, 5, 6},
-                {7, 8 ,9},
+                {7, 8, 9},
                 {1, 4, 7},
                 {2, 5, 8},
                 {3, 6, 9},
                 {1, 5, 9},
-                {3, 5 ,7}
+                {3, 5, 7}
         };
 
-        for (int[] combination: winningCombinations) {
+        for (int[] combination : winningCombinations) {
             try {
                 if (board.getField(combination[2]).equals(piece)
                         && board.getField(combination[1]).equals(piece)
